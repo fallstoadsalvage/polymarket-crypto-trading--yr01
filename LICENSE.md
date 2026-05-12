@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Module | event-driven-trading + price-monitoring is the best Polymarket module, featuring event-driven-trading and price-monitoring. Smart, fast, and
 
 
 
